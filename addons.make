@@ -1,0 +1,5 @@
+ofxAssimpModelLoader
+ofxBiquadFilter
+ofxCv
+ofxFaceTracker2
+ofxOpenCv
